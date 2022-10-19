@@ -17,8 +17,19 @@
   background-color: #f0f2f5 !important;
 }
 .content {
+  margin-top: 40px;
+  padding: 20px 40px
+}
+.analyze-btns{
   padding: 20px;
+display: flex;
+justify-content: space-around;
+width: 50%;
+}
+.spinner{
+  height: 600px;
+  width: 100%;
   display: flex;
-  justify-content: space-between;
-  /* background-color: rgb(241, 252, 253); */
+  justify-content: center;
+  align-items: center;
 }
